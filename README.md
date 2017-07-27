@@ -12,3 +12,4 @@ object tracking based on tf
 >  update the cnn model when tracking result get hight score
 
 ## result
+[![Watch the video](https://github.com/ggaoming/tf_object_tracking/blob/master/demo/00000001.jpg)](https://github.com/ggaoming/tf_object_tracking/blob/master/demo/vot2016_girl.avi)
