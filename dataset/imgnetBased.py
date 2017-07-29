@@ -3,7 +3,7 @@
 @version: 0.0
 @Author by Ggao
 @Mail: ggao_liming@qq.com
-@File: imgnetBased.py
+@File: imagenetBased.py
 @time: 2017-07-29
 """
 import tensorflow as tf
